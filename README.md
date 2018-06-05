@@ -1,3 +1,3 @@
 # hello-world
-first test git repository
-Hi iam a junior developer, iam starting with this file, iam going to add my new projects in here comming soon
+first test git repository.
+Hi Iam a junior developer, Iam starting with this file, Iam going to add my new projects in here comming soon
